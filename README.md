@@ -1,2 +1,0 @@
-# BeverageFactory
-Beverage Factory 
